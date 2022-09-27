@@ -1,12 +1,17 @@
-FROM debian:stable
+FROM debian
 
-RUN mkdir /app
+RUN mkdir /src
 
-WORKDIR /app
+WORKDIR /src
 
 COPY . ./
 
-RUN sh ./scripts/install-rust.sh
-RUN sh ./scripts/install-go.sh
+RUN apt-get update 
+RUN apt-get install wget curl -y
+RUN sh ./scripts/install-rust.sh 
+RUN sh ./scripts/install-go.sh 
+RUN go install github.com/jackyzha0/hugo-obsidian@latest 
+RUN sh ./scripts/install-hugo.sh 
 
-CMD ["npm", "start"]
+
+CMD ["make", "serve"]

@@ -2,14 +2,19 @@ version: '3'
 
 services:
 
-  server:
-    image: homebrew/brew:latest
+  quartz:
+    # image: homebrew/brew:latest
+    # image: klakegg/hugo:0.101.0-alpine
     # command: server # if you want a live server. idk where that /public folder is. idk why theme isn't there
     # entrypoint: hugo-official
     # environment:
     #   - HUGO_DESTINATION_ARG=/public
+    restart: unless-stopped
+    image: quartz-dnd
+    build:
+      dockerfile: Dockerfile
     volumes:
-      - "./:/app"
+      - "./:/src"
     ports:
       - "1313:1313"
 
