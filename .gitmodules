@@ -4,3 +4,6 @@
 [submodule "libs/hugo-obsidian"]
 	path = libs/hugo-obsidian
 	url = https://github.com/jackyzha0/hugo-obsidian.git
+[submodule "public"]
+	path = public
+	url = https://github.com/wchorski/quartz-dnd-public.git
