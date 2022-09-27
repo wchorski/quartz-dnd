@@ -1,0 +1,6 @@
+[submodule "libs/obsidian-export"]
+	path = libs/obsidian-export
+	url = https://github.com/brandonkboswell/obsidian-export.git
+[submodule "libs/hugo-obsidian"]
+	path = libs/hugo-obsidian
+	url = https://github.com/jackyzha0/hugo-obsidian.git
