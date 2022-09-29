@@ -11,14 +11,14 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/wchorski/quartz-dnd
+GitHubLink: https://github.com/wchorski/quartz-dnd-public
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "DnD - Quartz"
+  "DnD - Matter - Quartz"
 links:
   - link_name: Instagram
     link: https://instagram.com/willia_music

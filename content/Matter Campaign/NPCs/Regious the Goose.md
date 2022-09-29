@@ -1,7 +1,14 @@
-| character | race   | class |
-| --------- | ------ | ----- |
-| #NPC   | #animal |       |
+---
+---
+
+# Regious the Goose
+
+|character|race|class|
+|---------|----|-----|
+|\#NPC|\#animal||
 
 ### visual (picture)
+
 ### connections
-- [[LueEllen]]'s trusted animal companion 
+
+* [LueEllen](LueEllen.md)'s trusted animal companion 

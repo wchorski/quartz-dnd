@@ -11,6 +11,7 @@ RUN apt-get install wget curl -y
 RUN sh ./scripts/install-rust.sh 
 RUN sh ./scripts/install-go.sh 
 RUN go install github.com/jackyzha0/hugo-obsidian@latest 
+RUN cat
 RUN sh ./scripts/install-hugo.sh 
 
 

@@ -1,26 +1,30 @@
 ---
 title: "Location: ___"
 tags:
-- __village_town_city
+  - __village_town_city
 ---
 
-#template 
+# \_Location
+
+\#template 
 
 # short tagline of village
+
 ### meta data
-| info       | desc |
-| ---------- | ---- |
-| population |      |
-| buildings  |      |
 
-
+|info|desc|
+|----|----|
+|population||
+|buildings||
 
 ## Citizens
-- 
+
+* 
 
 ## Landmarks
-- 
+
+* 
 
 ## Neighboring Locations
-- 
 
+* 

@@ -1,4 +1,5 @@
-baseURL = "https://wchorski.github.io/quartz-dnd"
+
+baseURL = "http://wchorski.github.io/quartz-dnd-public"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true

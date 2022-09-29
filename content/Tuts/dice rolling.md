@@ -1,3 +1,8 @@
+---
+---
+
+# dice rolling
+
 Examples
 `dice: 1d2` 
 `dice: 3d4 + 3`  
@@ -7,7 +12,3 @@ Examples
 `dice: 1d20`
 `dice: 1d20+5`
 `dice: 1d6+2`
-
-
-
-

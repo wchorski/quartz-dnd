@@ -1,9 +1,16 @@
+---
+---
+
+# Circle Jerkers
+
 ### description
-- band of brothers set out to destroy the [[Iron Circle]]
+
+* band of brothers set out to destroy the [Iron Circle](Iron%20Circle.md)
 
 # Members
-- [[Broly]]
-- [[Bromdan]]
-- [[Jiandil]]
-- [[LoThaR]]
-- [[Lucas]]
+
+* [Broly](../Players/Broly.md)
+* [Bromdan](../Players/Bromdan.md)
+* [Jiandil](../Players/Jiandil.md)
+* [LoThaR](../Players/LoThaR.md)
+* [Lucas](../Players/Lucas.md)

@@ -1,9 +1,15 @@
-| character | race   | class |
-| --------- | ------ | ----- |
-| #NPC   | #elf | #druid     |
+---
+---
+
+# Ilyana
+
+|character|race|class|
+|---------|----|-----|
+|\#NPC|\#elf|\#druid|
 
 ### visual (picture)
 
 ### connections
-- college of [[LueEllen]]
-- 
+
+* college of [LueEllen](LueEllen.md)
+* 

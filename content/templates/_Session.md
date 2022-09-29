@@ -1,10 +1,12 @@
 ---
-title: "Session 000"
+title: Session 000
 tags:
-- 
+  - ~
 ---
 
-#template
+# \_Session
+
+\#template
 
 ## Current Setting
 

@@ -1,11 +1,14 @@
 ---
 title: "Clan: ___"
 tags:
-- __ally_enemy_neutral
+  - __ally_enemy_neutral
 ---
 
-#template 
+# \_Clan
+
+\#template 
 
 # Members
-- one
-- two
+
+* one
+* two
