@@ -21,13 +21,13 @@
 
 * We take a horse drawn carriage
 
-* A range of bandits of the [Iron Circle](../Clans/Iron%20Circle.md) 
+* A range of bandits of the [Iron Circle](obsidian://open?vault=DnD&file=Matter%20Campaign%2FClans%2FIron%20Circle) 
 
 * Burning building
 
 * We wipe out the dogs and Iron Circle enemies
 
-* [Bromdan](../Players/Bromdan.md) tries to put out fire with
+* [Bromdan](obsidian://open?vault=DnD&file=Matter%20Campaign%2FPlayers%2FBromdan) tries to put out fire with
 
 * We tie up the Captain
   
@@ -35,4 +35,4 @@
   * Lots of Iron Circle peeps in Harken
   * They came to destroy on an order
   * We could bring him back alive for a ransom
-* We decided to take him back to [Albridge](../Locations/Albridge.md)
+* We decided to take him back to [Albridge](obsidian://open?vault=DnD&file=Matter%20Campaign%2FLocations%2FAlbridge)

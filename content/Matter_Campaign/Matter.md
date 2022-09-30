@@ -13,8 +13,8 @@
 
 ## Clans
 
-* [Iron Circle](Clans/Iron%20Circle.md)
-* [Circle Jerkers](Clans/Circle%20Jerkers.md)
+* [Iron_Circle](Clans/Iron_Circle.md)
+* [Circle_Jerkers](Clans/Circle_Jerkers.md)
 
 ## Locations
 

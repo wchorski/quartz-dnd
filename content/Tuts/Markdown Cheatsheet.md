@@ -43,9 +43,9 @@ auto complete / search for other link / tag
 
 \#player #paladin #dragonborn #important
 
-![lucas-pic-v1.jpg](../Matter%20Campaign/Players/_attachments/lucas-pic-v1.jpg)
+![lucas-pic-v1.jpg](../Matter_Campaign/Players/_attachments/lucas-pic-v1.jpg)
 
-[Lucas_Laurde--Dragonborn_Paladin--Lv_5.pdf](../Matter%20Campaign/Players/_attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_5.pdf)
+[Lucas_Laurde--Dragonborn_Paladin--Lv_5.pdf](../Matter_Campaign/Players/_attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_5.pdf)
 
 I
 Damage Resistances: radiant, fire

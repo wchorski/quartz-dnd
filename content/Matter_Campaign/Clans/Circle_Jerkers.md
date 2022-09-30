@@ -1,11 +1,11 @@
 ---
 ---
 
-# Circle Jerkers
+# Circle_Jerkers
 
 ### description
 
-* band of brothers set out to destroy the [Iron Circle](Iron%20Circle.md)
+* band of brothers set out to destroy the [Iron_Circle](Iron_Circle.md)
 
 # Members
 

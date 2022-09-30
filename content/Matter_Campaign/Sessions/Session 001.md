@@ -18,13 +18,13 @@ Big noise outside!
 * Horse neck was matted with blood
 * Rider has thin black dart / arrow in his ribs
 
-The shot man - BURL \[teamster from Marrel - going to Allbridge\]
+The shot man - BURL teamster from Marrel - going to [Albridge](obsidian://open?vault=DnD&file=Matter%20Campaign%2FLocations%2FAlbridge)
 
 * He is on the brink of death
 
 * Bromdan helps the man
 
-* \[arrow thin black wood, scraggly feathers, crow pidgeon\]
+* arrow thin black wood, scraggly feathers, crow pidgeon
 
 * Guys eyes open
 
